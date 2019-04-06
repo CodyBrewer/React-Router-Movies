@@ -3,6 +3,7 @@ body {
   padding: 0;
   font-family: sans-serif;
   background-color: #f2f2f2;
+  
 }
 
 .movie-card {
@@ -69,4 +70,12 @@ body {
 .home-button {
   padding: 5px 10px;
   background-color: lightskyblue;
+}
+
+a {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
 }
